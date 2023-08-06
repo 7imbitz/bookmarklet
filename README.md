@@ -8,3 +8,6 @@ Bookmarklet that will extract all endpoints (starting with /) from the current D
 
 ### Example
 <img width="818" alt="Screenshot 2022-12-14 at 11 56 48" src="https://user-images.githubusercontent.com/26263598/207502142-3001b514-3326-4eb8-9764-2d1dd9f34ed7.png">
+
+### Reference 
+https://twitter.com/renniepak/status/1602620834463588352
